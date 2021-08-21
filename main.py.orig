@@ -1,5 +1,9 @@
-from fastapi import FastAPI, HTTPException
+<<<<<<< HEAD
+from fastapi import FastAPI
 import os
+=======
+from fastapi import FastAPI, HTTPException
+>>>>>>> mongo
 import uvicorn
 import pymongo
 import os
